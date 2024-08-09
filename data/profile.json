@@ -5,8 +5,7 @@
   "location": "Rio de Janeiro - RJ",
   "phone": "(21) 96436-0511",
   "email": "michelferraorj@gmail.com",
-  "skills": {
-    "hardSkills": [
+  "skills": 
       {
         "name": "Nodejs",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
